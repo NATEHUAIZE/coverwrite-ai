@@ -10,7 +10,7 @@ require("dotenv").config();
 const app = express();
 const port = process.env.PORT || 3000;
 
-const apiKey = AIzaSyBuvx7J2bS7kVgGdt9i7QgSU5AduPJKfA8;
+const apiKey = ;
 ID: hkg1::5d68p-1716027785138-0a56912fad15
 const basePrompt = process.env.BASE_PROMPT;
 const genAI = new GoogleGenerativeAI(apiKey);
